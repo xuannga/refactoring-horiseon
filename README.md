@@ -2,6 +2,6 @@
 
 https://github.com/xuannga/refactoring-horiseon
 
-![alt text](horiseonSS1.png)
-![alt text](horiseonSS2.png)
-![alt text](horiseonSS3.png)
+![screenshot 1](/assets/horiseonSS1.png)
+![screenshot 2](/assets/horiseonSS2.png)
+![screenshot 3](/assets/horiseonSS3.png)
